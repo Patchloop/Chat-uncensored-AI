@@ -27,7 +27,7 @@ Selling a **fully working, ultra-realistic AI girlfriend bot**
 ## Local API – Full Control
 
 ```bash
-curl -X POST http://127.0.0.1:1337/ask_direct \
+curl -X POST http://127.0.0.1:1337/ask \
   -H "Content-Type: application/json" \
   -d '{
     "message": "Hey Marta, what are you wearing?",
