@@ -13,15 +13,17 @@ Selling a **fully working, ultra-realistic AI girlfriend bot**
 - **Proxy rotation + smart session management**
 ---
 ## Local API – Full Control
-```bash:disable-run
+
+```bash
 curl -X POST http://127.0.0.1:1337/ask_direct \
   -H "Content-Type: application/json" \
   -d '{
     "message": "Hey Marta, what are you wearing?",
     "model": "gosh-v2-"
   }'
+```
 
-## Can You Use the API in Other Apps? **YES**
+### Can You Use the API in Other Apps? **YES**
 
 Can You Customize the Bots? **YES**  
 Change personality, tone, backstory  
