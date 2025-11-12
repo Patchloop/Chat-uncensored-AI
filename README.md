@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://youtu.be/1-YRifSL0Mc">
-    <img src="https://img.youtube.com/vi/1-YRifSL0Mc/maxresdefault.jpg" width="400" alt="Telegram Demo">
+    <img src="https://img.youtube.com/vi/1-YRifSL0Mc/maxresdefault.jpg" width="400">
   </a>
   <br><br>
   <a href="https://youtu.be/-3vmy2XwuPs">
-    <img src="https://img.youtube.com/vi/-3vmy2XwuPs/maxresdefault.jpg" width="400" alt="Adult Mode Demo">
+    <img src="https://img.youtube.com/vi/-3vmy2XwuPs/hqdefault.jpg" width="400">
   </a>
 </p>
 
