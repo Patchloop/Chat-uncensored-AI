@@ -1,5 +1,5 @@
-![Demo 1](https://img.youtube.com/vi/DEMO1_PLACEHOLDER/0.jpg)  
-![Demo 2](https://img.youtube.com/vi/DEMO2_PLACEHOLDER/0.jpg)
+[![Telegram Demo](https://img.youtube.com/vi/1-YRifSL0Mc/maxresdefault.jpg)](https://youtu.be/1-YRifSL0Mc)  
+[![Adult Mode Demo](https://img.youtube.com/vi/-3vmy2XwuPs/maxresdefault.jpg)](https://youtu.be/-3vmy2XwuPs)
 
 # Marta AI – Telegram & Instagram DM Bot (Unlimited, Uncensored)
 Hey!  
@@ -14,6 +14,7 @@ Selling a **fully working, ultra-realistic AI girlfriend bot**
 - **Unlimited messages** – no daily caps, no queues
 - **Zero content filtering** – **NSFW / Adult mode fully unlocked**
 - **14 languages supported**
+- ***Bot can send IMAGES**
 - **Proxy rotation + smart session management**
 ---
 ## Local API – Full Control
@@ -37,4 +38,4 @@ Add new modes, languages, behaviors
 
 **Legal Disclaimer**: This software is provided as-is for educational and personal use only. The author does not promote, support, or condone any illegal, unethical, or harmful activities. You are 100% responsible for your usage. No warranties. Use at your own risk. I am not liable for anything you do with this code.
 
-**Contact**: [![Telegram](https://img.shields.io/badge/Telegram-@realcoaie-blue.svg?logo=telegram)](https://t.me/patchloop)
+**Contact**: [![Telegram](https://img.shields.io/badge/Telegram-@patchloop-blue.svg?logo=telegram)](https://t.me/patchloop)
