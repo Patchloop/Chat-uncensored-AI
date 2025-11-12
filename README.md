@@ -1,5 +1,5 @@
 [![Telegram Demo](https://img.youtube.com/vi/1-YRifSL0Mc/maxresdefault.jpg)](https://youtu.be/1-YRifSL0Mc)  
-[![Adult Mode Demo](https://img.youtube.com/vi/-3vmy2XwuPs/maxresdefault.jpg)](https://youtu.be/-3vmy2XwuPs)
+[![+18 Mode Demo](https://img.youtube.com/vi/-3vmy2XwuPs/maxresdefault.jpg)](https://youtu.be/-3vmy2XwuPs)
 
 # Marta AI – Telegram & Instagram DM Bot (Unlimited, Uncensored)
 Hey!  
