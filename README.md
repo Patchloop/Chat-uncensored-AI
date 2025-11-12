@@ -1,7 +1,11 @@
+![Demo 1](https://img.youtube.com/vi/DEMO1_PLACEHOLDER/0.jpg)  
+![Demo 2](https://img.youtube.com/vi/DEMO2_PLACEHOLDER/0.jpg)
+
 # Marta AI – Telegram & Instagram DM Bot (Unlimited, Uncensored)
 Hey!  
 Selling a **fully working, ultra-realistic AI girlfriend bot**  
-* She’s funny, flirty, teasing, and **talks exactly like a real girl**. No robotic replies. No filters. No limits.
+* She’s funny, flirty, teasing, and **talks exactly like a real girl**
+*  No robotic replies, No filters, No limits
 ---
 ## What You Get
 - **Telegram Bot** – auto-replies in private chats, group-ready
@@ -28,9 +32,9 @@ curl -X POST http://127.0.0.1:1337/ask_direct \
 Can You Customize the Bots? **YES**  
 Change personality, tone, backstory  
 Teach your AI to talk like your brand, character, or fantasy  
-Modify prompts, responses, logic – total freedom  
+Modify prompts, responses, logic – ***total freedom***  
 Add new modes, languages, behaviors  
 
 **Legal Disclaimer**: This software is provided as-is for educational and personal use only. The author does not promote, support, or condone any illegal, unethical, or harmful activities. You are 100% responsible for your usage. No warranties. Use at your own risk. I am not liable for anything you do with this code.
 
-**Contact**: Telegram: [@realcoaie](https://t.me/realcoaie)
+**Contact**: [![Telegram](https://img.shields.io/badge/Telegram-@realcoaie-blue.svg?logo=telegram)](https://t.me/patchloop)
